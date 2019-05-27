@@ -8,7 +8,7 @@ tags:
    - ide
    - pycharm
    - utf8
-layout: wide
+classes: wide
 ---
 
 
