@@ -22,6 +22,11 @@ github_username: kcushy
 minimal_mistakes_skin: default
 search: true
 
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
