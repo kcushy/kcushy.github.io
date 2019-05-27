@@ -29,12 +29,12 @@ pycharm이 LC_CTYPE 인식하지 못하는 것 같으니 pycharm terminal 옵션
 
 2. 아래 이미지와 같이 `LC_CTYPE`에 `ko_KR.UTF-8` 을 입력해주시고 OK를 누릅니다.
 
-간단한 과정을 거쳐 pycharm을 종료 후 재실행 시켜보시면 깔끔하게 해결될 것입니다.
+간단한 과정을 거쳐 pycharm을 종료 후 재실행 시켜보시면 말끔히 해결될 것입니다.
 
 ![pycharm](https://d2ddoduugvun08.cloudfront.net/items/1K0J452L2K22413L1e2v/2019-03-29_14-43-53.png)
 
 
 
 ## References
----
+--
 [링크1](https://hashcode.co.kr/questions/5306/pycharm-에서-한글-사용할-때-encoding-문제가-발생합니다)
