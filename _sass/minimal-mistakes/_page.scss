@@ -2,6 +2,10 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
+body {
+    line-height: 1.8
+}
+
 #main {
   @include clearfix;
   margin-left: auto;
@@ -72,11 +76,14 @@
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
   }
+  
+  li {
+    font-size: 0.95em;
+  }
 
   p,
-  li,
   dl {
-    font-size: 1em; /*1em*/
+    font-size: 0.85em; /*1em*/
   }
 
   /* paragraph indents */
