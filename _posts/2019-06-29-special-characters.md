@@ -21,7 +21,7 @@ classes: wide
 | <center><strong>*</strong></center>     |    <center>Asterisk</center>    | <center><strong>{ , }</strong></center> | <center>Curly Bracket, Brace</center> |
 | <center><strong>[ , ]</strong></center> | <center>Square Bracket</center> | <center><strong>\|</strong></center>    | <center>Vertical Bar</center>         |
 | <center><strong>\</strong></center>    |   <center>Back Slash</center>   | <center><strong>/</strong></center>     | <center>Slash</center>                |
-| <center><strong>:</strong></center>     |     <center>Colon</center>      | <center><strong>;</strong></center>     | <center>Semi Colon</center>           |
+| <center><strong>:</strong></center>     |     <center>Colon</center>      | <center><strong>;</strong></center>     | <center>Semicolon</center>           |
 | <center><</center>     | <center>Angle Bracket</center>  | <center><strong>`</strong></center>     | <center>Back Tick</center>            |
 | <center><strong>( , )</strong></center> |  <center>Parentheses</center>   | <center><strong>-</strong></center>     | <center>Minus Sign</center>           |
 | <center><strong>_</strong></center>     |   <center>Underscore</center>   | <center><strong>=</strong></center>     | <center>Eqaul Sign</center>           |
