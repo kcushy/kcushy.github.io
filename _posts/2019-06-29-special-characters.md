@@ -1,5 +1,5 @@
 ---
-title: 알아두면 편리한 특수문자 용어 정리
+title: 모두를 위한 특수문자 용어 정리
 comments: true
 categories:
    - basic
@@ -15,7 +15,7 @@ classes: wide
 그래서 아래와 같이 정리해보았다. 
 
 | <center><strong>~</strong></center>     |     <center>Tilde</center>      | <center><strong>!</strong></center>     | <center>Exclamation Mark</center>     |
-| <center><strong>@</strong></center>     |   <center>At Symbol</center>   | <center><strong>\#</strong></center>     | <center>Sharp</center>                |
+| <center><strong>@</strong></center>     |   <center>At Symbol</center>   | <center><strong>#</strong></center>     | <center>Sharp</center>                |
 | <center><strong>$</strong></center>     |  <center>Dollar Sign</center>   | <center><strong>%</strong></center>     | <center>Percent Sign</center>         |
 | <center><strong>^</strong></center>     |     <center>Caret</center>      | <center><strong>&</strong></center>     | <center>Ampersand</center>            |
 | <center><strong>*</strong></center>     |    <center>Asterisk</center>    | <center><strong>{ , }</strong></center> | <center>Curly Bracket, Brace</center> |
