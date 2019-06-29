@@ -15,16 +15,16 @@ classes: wide
 그래서 아래와 같이 정리해보았다. 
 
 | <center><strong>~</strong></center>     |     <center>Tilde</center>      | <center><strong>!</strong></center>     | <center>Exclamation Mark</center>     |
-| <center><strong>@</strong></center>     |   <center>At Symbol</center>   | <center><stong>#</strong></center>     | <center>sharp</center>                |
+| <center><strong>@</strong></center>     |   <center>At Symbol</center>   | <center><stong>#</strong></center>     | <center>Sharp</center>                |
 | <center><strong>$</strong></center>     |  <center>Dollar Sign</center>   | <center><strong>%</strong></center>     | <center>Percent Sign</center>         |
-| <center><strong>^<strong></center>     |     <center>Caret</center>      | <center><strong>&</strong></center>     | <center>Ampersand</center>            |
+| <center><strong>^</strong></center>     |     <center>Caret</center>      | <center><strong>&</strong></center>     | <center>Ampersand</center>            |
 | <center><strong>*</strong></center>     |    <center>Asterisk</center>    | <center><strong>{ , }</strong></center> | <center>Curly Bracket, Brace</center> |
 | <center><strong>[ , ]</strong></center> | <center>Square Bracket</center> | <center><strong>|</strong></center>    | <center>Vertical Bar</center>         |
-| <center><strong>\\</strong></center>    |   <center>Back Slash</center>   | <center><strong>/</strong></center>     | <center>Slash</center>                |
+| <center><strong>\</strong></center>    |   <center>Back Slash</center>   | <center><strong>/</strong></center>     | <center>Slash</center>                |
 | <center><strong>:</strong></center>     |     <center>Colon</center>      | <center><strong>;</strong></center>     | <center>Semi Colon</center>           |
 | <center><</center>     | <center>Angle Bracket</center>  | <center><strong>\`</strong></center>     | <center>Back Tick</center>            |
 | <center><strong>( , )</strong></center> |  <center>Parentheses</center>   | <center><strong>-</strong></center>     | <center>Minus Sign</center>           |
-| <center><strong>\_</strong></center>     |   <center>Underscore</center>   | <center><strong>=</strong></center>     | <center>Eqaul Sign</center>           |
+| <center><strong>_</strong></center>     |   <center>Underscore</center>   | <center><strong>=</strong></center>     | <center>Eqaul Sign</center>           |
 | <center><strong>+</strong></center>     |   <center>Plus Sign</center>    | <center><strong>,</strong></center>     | <center>Comma</center>                |
 | <center><strong>.</strong></center>     |     <center>Period</center>     | <center><strong>?</strong></center>     | <center>Question Mark</center>        |
 
