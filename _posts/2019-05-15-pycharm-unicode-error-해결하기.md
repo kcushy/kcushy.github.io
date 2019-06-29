@@ -30,5 +30,5 @@ pycharm이 LC_CTYPE 인식하지 못하는 것 같으니 pycharm terminal 옵션
 ![pycharm](https://d2ddoduugvun08.cloudfront.net/items/1K0J452L2K22413L1e2v/2019-03-29_14-43-53.png)
 
 ## References
----
+--
 [링크](https://hashcode.co.kr/questions/5306/pycharm-에서-한글-사용할-때-encoding-문제가-발생합니다)
