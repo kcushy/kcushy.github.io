@@ -14,18 +14,18 @@ classes: wide
 
 그래서 아래와 같이 정리해보았다. 
 
-| <center>**~**</center>     |     <center>Tilde</center>      | <center>**!**</center>     | <center>Exclamation Mark</center>     |
-| <center>**@**</center>     |   <center>At Symbol</center>   | <center>__#__</center>     | <center>sharp</center>                |
-| <center>**$**</center>     |  <center>Dollar Sign</center>   | <center>**%**</center>     | <center>Percent Sign</center>         |
-| <center>**^**</center>     |     <center>Caret</center>      | <center>**&**</center>     | <center>Ampersand</center>            |
-| <center>__*__</center>     |    <center>Asterisk</center>    | <center>__{ , }__</center> | <center>Curly Bracket, Brace</center> |
-| <center>__[ , ]__</center> | <center>Square Bracket</center> | <center>__|__</center>    | <center>Vertical Bar</center>         |
-| <center>__\\__</center>    |   <center>Back Slash</center>   | <center>__/__</center>     | <center>Slash</center>                |
-| <center>__:__</center>     |     <center>Colon</center>      | <center>__;__</center>     | <center>Semi Colon</center>           |
-| <center><</center>     | <center>Angle Bracket</center>  | <center>__`__</center>     | <center>Back Tick</center>            |
-| <center>__( , )__</center> |  <center>Parentheses</center>   | <center>__-__</center>     | <center>Minus Sign</center>           |
-| <center>__\___</center>     |   <center>Underscore</center>   | <center>__=__</center>     | <center>Eqaul Sign</center>           |
-| <center>__+__</center>     |   <center>Plus Sign</center>    | <center>__,__</center>     | <center>Comma</center>                |
-| <center>__.__</center>     |     <center>Period</center>     | <center>__?__</center>     | <center>Question Mark</center>        |
+| <center><strong>~</strong></center>     |     <center>Tilde</center>      | <center><strong>!</strong></center>     | <center>Exclamation Mark</center>     |
+| <center><strong>@</strong></center>     |   <center>At Symbol</center>   | <center><stong>#</strong></center>     | <center>sharp</center>                |
+| <center><strong>$</strong></center>     |  <center>Dollar Sign</center>   | <center><strong>%</strong></center>     | <center>Percent Sign</center>         |
+| <center><strong>^<strong></center>     |     <center>Caret</center>      | <center><strong>&</strong></center>     | <center>Ampersand</center>            |
+| <center><strong>*</strong></center>     |    <center>Asterisk</center>    | <center><strong>{ , }</strong></center> | <center>Curly Bracket, Brace</center> |
+| <center><strong>[ , ]</strong></center> | <center>Square Bracket</center> | <center><strong>|</strong></center>    | <center>Vertical Bar</center>         |
+| <center><strong>\\</strong></center>    |   <center>Back Slash</center>   | <center><strong>/</strong></center>     | <center>Slash</center>                |
+| <center><strong>:</strong></center>     |     <center>Colon</center>      | <center><strong>;</strong></center>     | <center>Semi Colon</center>           |
+| <center><</center>     | <center>Angle Bracket</center>  | <center><strong>\`</strong></center>     | <center>Back Tick</center>            |
+| <center><strong>( , )</strong></center> |  <center>Parentheses</center>   | <center><strong>-</strong></center>     | <center>Minus Sign</center>           |
+| <center><strong>\_</strong></center>     |   <center>Underscore</center>   | <center><strong>=</strong></center>     | <center>Eqaul Sign</center>           |
+| <center><strong>+</strong></center>     |   <center>Plus Sign</center>    | <center><strong>,</strong></center>     | <center>Comma</center>                |
+| <center><strong>.</strong></center>     |     <center>Period</center>     | <center><strong>?</strong></center>     | <center>Question Mark</center>        |
 
 괄호류는 가령 Parentheses는 (, )와 같이 두 가지로 나뉘는데 각각 open parenthesis, close parenthesis와 같이 쓰게 되는 것 같다.
