@@ -28,4 +28,4 @@ classes: wide
 | <center><strong>+</strong></center>     |   <center>Plus Sign</center>    | <center><strong>,</strong></center>     | <center>Comma</center>                |
 | <center><strong>.</strong></center>     |     <center>Period</center>     | <center><strong>?</strong></center>     | <center>Question Mark</center>        |
 
-괄호류는 가령 Parentheses는 (, )와 같이 두 가지로 나뉘는데 각각 open parenthesis, close parenthesis와 같이 쓰게 되는 것 같다.
+괄호류는, 한 예로 Parentheses는 (, )와 같이 두 가지로 나뉘는데 각각 open parenthesis, close parenthesis와 같이 쓰게 되는 것 같다.
