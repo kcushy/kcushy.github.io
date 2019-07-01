@@ -90,6 +90,12 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
+comments:
+  provider: "disqus"
+  disqus: 
+    shortname: "dalkom"
+              
+
 defaults:
   # _posts
   - scope:
