@@ -18,7 +18,7 @@ classes: wide
 | <center><strong>@</strong></center>     |   <center>At Symbol</center>   | <center><strong>#</strong></center>     | <center>Sharp</center>                |
 | <center><strong>$</strong></center>     |  <center>Dollar Sign</center>   | <center><strong>%</strong></center>     | <center>Percent Sign</center>         |
 | <center><strong>^</strong></center>     |     <center>Caret</center>      | <center><strong>&</strong></center>     | <center>Ampersand</center>            |
-| <center><strong>*</strong></center>     |    <center>Asterisk</center>    | <center><strong>{ , }</strong></center> | <center>Curly Bracket, Brace</center> |
+| <center><strong>*</strong></center>     |    <center>Asterisk</center>    | <center><strong>{ , }</strong></center> | <center>Brace</center> |
 | <center><strong>[ , ]</strong></center> | <center>Square Bracket</center> | <center><strong>\|</strong></center>    | <center>Vertical Bar</center>         |
 | <center><strong>\</strong></center>    |   <center>Back Slash</center>   | <center><strong>/</strong></center>     | <center>Slash</center>                |
 | <center><strong>:</strong></center>     |     <center>Colon</center>      | <center><strong>;</strong></center>     | <center>Semicolon</center>           |
