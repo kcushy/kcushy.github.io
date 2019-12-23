@@ -134,6 +134,24 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  
+  # _recall
+  - scope:
+      path: ""
+      type: recall
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+  # _log
+  - scope:
+      path: ""
+      type: log
+    values: 
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
