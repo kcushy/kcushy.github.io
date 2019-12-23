@@ -1,6 +1,7 @@
 ---
 title: 프로그래밍을 위한 특수문자 정리
 comments: true
+layout: recall
 categories:
    - recall
 tags:
