@@ -94,7 +94,19 @@ comments:
   provider: "disqus"
   disqus: 
     shortname: "dalkom"
-              
+
+collections:
+  learn:
+    output: true
+    permalink: /:collection/:path
+  log:
+    output: true
+    permalink: /:collection/:path
+  recall:
+    output: true
+    permalink: /:collection/:path
+
+
 defaults:
   # _posts
   - scope:
@@ -114,6 +126,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _learn
+  - scope:
+      path: ""
+      type: learn
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
