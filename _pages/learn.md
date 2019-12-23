@@ -1,5 +1,9 @@
 ---
+title: learn
+layout: collection
 permalink: /learn/
-title: "배우다"
-layout: learn
+collection: learn
+entries_layout: grid
+classes: wide
 ---
+
