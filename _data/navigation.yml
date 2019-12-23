@@ -4,8 +4,13 @@ main:
     url: /categories/
   - title: "tag"
     url: /tags/
-  - title: "TIL"
-    url: /til/
+  - title: "꺼내다"
+    url: /recall/
+  - title: "배우다"
+    url: /learn/
+  - title: "남기다"
+    url: /log/
+
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
