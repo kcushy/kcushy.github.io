@@ -122,3 +122,12 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+recall_archive:
+        type: liquid
+        path: /recall/
+learn_archive:
+        type: liquid
+        path: /learn/
+log_archive:
+        type: liquid
+        path: /log/
