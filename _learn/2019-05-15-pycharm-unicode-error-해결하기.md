@@ -1,7 +1,6 @@
 ---
 title: pycharm unicode error 해결하기
 comments: true
-collections: learn
 categories:
    - python
 tags:
