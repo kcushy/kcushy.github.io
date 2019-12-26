@@ -1,8 +1,6 @@
 ---
-title: log
-layout: collection
+title: "앞으로 나아가다"
+layout: categories
 permalink: /log/
-collection: log
-classes: wide
+author_profile: true
 ---
-

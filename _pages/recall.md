@@ -1,7 +1,6 @@
 ---
-title: recall
-layout: collection
+title: "정리하여 내어놓다"
+layout: categories
 permalink: /recall/
-collection: recall
-classes: wide
+author_profile: true
 ---
