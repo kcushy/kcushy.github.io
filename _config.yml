@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 기술블로그
-email: dev.kcushy@gmail.com
+email: dev.dalkom@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Dive into iOS, python
-twitter_username: dev_kcushy
+twitter_username: dev_dalkom
 github_username: kcushy
 minimal_mistakes_skin: default
 search: true
@@ -70,7 +70,7 @@ author:
       # url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/dev_kcushy"
+      url: "https://twitter.com/dev_dalkom"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kcushy"
@@ -82,7 +82,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/dev_kcushy"
+      url: "https://twitter.com/dev_dalkom"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kcushy"
@@ -94,18 +94,6 @@ comments:
   provider: "disqus"
   disqus: 
     shortname: "dalkom"
-
-collections:
-  learn:
-    output: true
-    permalink: /:collection/:path
-  log:
-    output: true
-    permalink: /:collection/:path
-  recall:
-    output: true
-    permalink: /:collection/:path
-
 
 defaults:
   # _posts
@@ -125,34 +113,6 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
-  # _learn
-  - scope:
-      path: ""
-      type: learn
-    values:
-      layout: single
-      author_profile: false
-      share: true
-  
-  # _recall
-  - scope:
-      path: ""
-      type: recall
-    values:
-      layout: single
-      author_profile: false
-      share: true
-
-  # _log
-  - scope:
-      path: ""
-      type: log
-    values: 
-      layout: single
-      author_profile: false
-      share: true
-
 category_archive:
   type: liquid
   path: /categories/
