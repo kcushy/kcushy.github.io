@@ -2,7 +2,7 @@
 title: pycharm unicode error 해결하기
 comments: true
 categories:
-   - python
+   - learn
 tags:
    - python
    - ide
