@@ -4,6 +4,8 @@ main:
     url: /tags/
   - title: "꺼내다"
     url: /recall/
+  - title: "스치다"
+    url: /graze/
 
   # - title: "Sample Collections"
   #   url: /collection-archive/
