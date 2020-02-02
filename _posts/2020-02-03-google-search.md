@@ -2,7 +2,7 @@
 title: 구글 검색 연산자 활용하기
 comments: true
 categories:
-   - graze
+   - recall
 tags:
    - google
    - tip
