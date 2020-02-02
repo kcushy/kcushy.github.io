@@ -1,5 +1,5 @@
 ---
-title: 구글 검색 팁
+title: 구글 검색 연산자 활용하기
 comments: true
 categories:
    - graze
@@ -15,17 +15,17 @@ classes: wide
 
 - 적용 전
 
-  ![tip-1](images/google-tip-1.jpg)
+  ![tip-1](https://github.com/kcushy/kcushy.github.io/tree/master/_posts/images/google-tip-1.jpg)
 
 - 적용 후
 
-  ![tip-2](images/google-tip-2.jpg)
+  ![tip-2](https://github.com/kcushy/kcushy.github.io/tree/master/_posts/images/google-tip-2.jpg)
 
 ## 고정된 단어 + 아무 단어 검색하기 
 
 - "A B C" 라고 입력하면 A B C 가 그대로 검색되지만, "A * C" 와 같이 Asterisk(*)을 포함하면 A C 사이에는 아무 단어나 포함시켜 검색된다.
 
-  ![tip-3](images/google-tip-3.jpg)
+  ![tip-3](https://github.com/kcushy/kcushy.github.io/tree/master/_posts/images/google-tip-3.jpg)
 
 ## 특정 단어 제외시키기
 
@@ -53,13 +53,5 @@ classes: wide
 
 ## Ref
 
----
-
 - [[도서] IT 개발자의 영어 필살기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791189909093&orderClick=LAG&Kc=)
-
-
-
-
-
-### 
 
