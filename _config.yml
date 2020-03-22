@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "제잉"
   avatar : "/assets/images/avatar.png"
-  bio    : "iOS developer -ing\n언어에 구애받지 않고 배움을 즐깁니다"
+  bio    : "iOS developer -ing"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
