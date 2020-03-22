@@ -11,7 +11,10 @@ tags:
 classes: wide
 ---
 
-이와 같이 수정하더라도 여전히 아래 문제가 발생하는 경우가 많아서 수정이 필요한 글입니다. {: .notice--warning}
+
+
+이와 같이 수정하더라도 여전히 아래 문제가 발생하는 경우가 많아서 수정이 필요한 글입니다.
+{: .notice--warning}
 
 mac OS 환경에서 pycharm - preferences의 encoding 설정을 utf-8로 했는데도 아래 코드를 실행시
 <mark>UnicodeEncodeError: 'ascii' codec can't encode characters</mark> 와 같은 형태의 에러를 볼 수 있다.
