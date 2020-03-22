@@ -6,7 +6,8 @@ main:
     url: /recall/
   - title: "스치다"
     url: /graze/
-
+  - title: "오늘하다"
+    url: /til/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
