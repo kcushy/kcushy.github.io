@@ -78,7 +78,7 @@ body {
     border-bottom: 1px solid $border-color;
   }
   
-  > ul > li {
+  > ul, ol > li {
     font-size: 0.85em;
   }
 
