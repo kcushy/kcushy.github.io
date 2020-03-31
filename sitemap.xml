@@ -1,29 +1,112 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for post in site.posts %}
-    <url>
-      <loc>{{ site.url }}{{ post.url }}</loc>
-      {% if post.lastmod == null %}
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-      {% else %}
-        <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
-      {% endif %}
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-      {% if post.sitemap.changefreq == null %}
-        <changefreq>weekly</changefreq>
-      {% else %}
-        <changefreq>{{ post.sitemap.changefreq }}</changefreq>
-      {% endif %}
 
-      {% if post.sitemap.priority == null %}
-          <priority>0.5</priority>
-      {% else %}
-        <priority>{{ post.sitemap.priority }}</priority>
-      {% endif %}
+<url>
+  <loc>https://dalkom.dev/</loc>
+  <lastmod>2020-03-30T14:32:06+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://dalkom.dev/tags/</loc>
+  <lastmod>2020-03-30T14:32:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dalkom.dev/recall/</loc>
+  <lastmod>2020-03-30T14:32:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dalkom.dev/graze/</loc>
+  <lastmod>2020-03-30T14:32:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dalkom.dev/til/</loc>
+  <lastmod>2020-03-30T14:32:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dalkom.dev/graze/operator-method/</loc>
+  <lastmod>2020-03-30T14:32:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dalkom.dev/til/200329-TIL/</loc>
+  <lastmod>2020-03-30T14:32:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dalkom.dev/recall/%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80-2%EC%9D%98-%EB%B3%B4%EC%88%98%EB%B2%95/</loc>
+  <lastmod>2020-03-30T14:32:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dalkom.dev/til/200328-TIL/</loc>
+  <lastmod>2020-03-30T14:32:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dalkom.dev/til/200325-TIL/</loc>
+  <lastmod>2020-03-30T14:32:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dalkom.dev/page2/</loc>
+  <lastmod>2020-03-30T14:32:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dalkom.dev/page3/</loc>
+  <lastmod>2020-03-30T14:32:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dalkom.dev/til/200324-TIL/</loc>
+  <lastmod>2020-03-30T14:32:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dalkom.dev/til/200323-TIL/</loc>
+  <lastmod>2020-03-30T14:32:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dalkom.dev/til/200322-TIL/</loc>
+  <lastmod>2020-03-30T14:32:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dalkom.dev/recall/pycharm-unicode-error-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0/</loc>
+  <lastmod>2020-03-30T14:32:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dalkom.dev/recall/special-characters/</loc>
+  <lastmod>2020-03-30T14:32:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dalkom.dev/recall/google-search/</loc>
+  <lastmod>2020-03-30T14:32:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dalkom.dev/recall/%EA%B8%B0%EB%B3%B8-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC/</loc>
+  <lastmod>2020-03-30T14:32:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dalkom.dev/categories/</loc>
+  <lastmod>2020-03-30T14:32:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
 
-    </url>
-  {% endfor %}
+
 </urlset>
